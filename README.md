@@ -5,6 +5,8 @@
 ## Problem 1 ##
 Dealing with missing information & identifying full (most important) manufacture details of product
 
+Possible Solutions: Identifying info from pictures or using search engines to find full description 
+
 ## Problem 2 ##
 Best numerical representation of labels
 
